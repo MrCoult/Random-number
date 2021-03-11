@@ -1,0 +1,24 @@
+C:\Users\ankh\Desktop\App2\App2\obj\Debug\App2.vbprojAssemblyReference.cache
+C:\Users\ankh\Desktop\App2\App2\obj\Debug\App2.Form1.resources
+C:\Users\ankh\Desktop\App2\App2\obj\Debug\App2.Resources.resources
+C:\Users\ankh\Desktop\App2\App2\obj\Debug\App2.vbproj.GenerateResource.cache
+C:\Users\ankh\Desktop\App2\App2\obj\Debug\App2.vbproj.CoreCompileInputs.cache
+C:\Users\ankh\Desktop\App2\App2\bin\Debug\App2.exe.config
+C:\Users\ankh\Desktop\App2\App2\bin\Debug\App2.exe
+C:\Users\ankh\Desktop\App2\App2\bin\Debug\App2.pdb
+C:\Users\ankh\Desktop\App2\App2\bin\Debug\App2.xml
+C:\Users\ankh\Desktop\App2\App2\obj\Debug\App2.exe
+C:\Users\ankh\Desktop\App2\App2\obj\Debug\App2.xml
+C:\Users\ankh\Desktop\App2\App2\obj\Debug\App2.pdb
+C:\Users\MrCoult\Desktop\Teme\fac\sa nu faci exact la fel\Arsene Florin\App2\App2\bin\Debug\App2.exe.config
+C:\Users\MrCoult\Desktop\Teme\fac\sa nu faci exact la fel\Arsene Florin\App2\App2\bin\Debug\App2.exe
+C:\Users\MrCoult\Desktop\Teme\fac\sa nu faci exact la fel\Arsene Florin\App2\App2\bin\Debug\App2.pdb
+C:\Users\MrCoult\Desktop\Teme\fac\sa nu faci exact la fel\Arsene Florin\App2\App2\bin\Debug\App2.xml
+C:\Users\MrCoult\Desktop\Teme\fac\sa nu faci exact la fel\Arsene Florin\App2\App2\obj\Debug\App2.vbprojAssemblyReference.cache
+C:\Users\MrCoult\Desktop\Teme\fac\sa nu faci exact la fel\Arsene Florin\App2\App2\obj\Debug\App2.Form1.resources
+C:\Users\MrCoult\Desktop\Teme\fac\sa nu faci exact la fel\Arsene Florin\App2\App2\obj\Debug\App2.Resources.resources
+C:\Users\MrCoult\Desktop\Teme\fac\sa nu faci exact la fel\Arsene Florin\App2\App2\obj\Debug\App2.vbproj.GenerateResource.cache
+C:\Users\MrCoult\Desktop\Teme\fac\sa nu faci exact la fel\Arsene Florin\App2\App2\obj\Debug\App2.vbproj.CoreCompileInputs.cache
+C:\Users\MrCoult\Desktop\Teme\fac\sa nu faci exact la fel\Arsene Florin\App2\App2\obj\Debug\App2.exe
+C:\Users\MrCoult\Desktop\Teme\fac\sa nu faci exact la fel\Arsene Florin\App2\App2\obj\Debug\App2.xml
+C:\Users\MrCoult\Desktop\Teme\fac\sa nu faci exact la fel\Arsene Florin\App2\App2\obj\Debug\App2.pdb
